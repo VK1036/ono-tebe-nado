@@ -71,11 +71,11 @@
     position: relative;
     width: 1100px;
     min-height: 757px;
-    
+
     background-image: url(../images/cover.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;    
+    background-size: cover;
     padding: 0;     /* занимает всю площадь без деформации изображения*/
 }
 
@@ -154,7 +154,7 @@
     color:#FFF;
     background-color: transparent;
     text-align: center;
-    font-family: Raleway;
+    font-family: Raleway, Arial, sans-serif;
     font-size: 22px;    
     font-weight: 500;
     text-transform: uppercase;
